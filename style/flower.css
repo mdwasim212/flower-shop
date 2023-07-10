@@ -73,9 +73,6 @@ header{
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 120px 50px 50px 50px;
-
-    /* width: 460px;
-    height: 540px;   */
 }
 .yellow-flower{
     border-radius: 300px 300px 0px 0px;
@@ -89,6 +86,30 @@ header{
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline; 
+}
+/* servise part */
+.servise-area{
+    width: 1440px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 130px 240px 0px 240px;
+    
+}
+.servise{
+    display: flex;
+    gap: 100px;
+    padding: 90px 150px;
+}
+.delivery{
+    text-align: center;
+
+}
+.servise-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px; 
 }
 
 /* hot deat offer part */
@@ -147,6 +168,7 @@ header{
 /* latest deal part */
 .latest-deal{
     background-image: url('../Flower Asset/Rectangle 9.png');
+    width: 1440px;
     margin: 130px 240px;
     background-repeat: no-repeat;
 }
@@ -179,6 +201,7 @@ header{
 /* footer part */
 footer{
     background: #111010;
+    width: 1900px;
 }
 .footer-title{
     color: rgba(255, 255, 255, 0.90);
