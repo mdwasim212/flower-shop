@@ -39,6 +39,9 @@ header{
 }
 
 /* feature part */
+.feature{
+    width: 1900px;
+}
 
 .feature-heading{
     text-align: center;
@@ -66,8 +69,6 @@ header{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15); 
     padding: 110px 75px 0px 75px;
-    /* width: 460px;
-    height: 540px;  */
 }
 .mixed-flower{
     border-radius: 300px 300px 0px 0px;
@@ -115,6 +116,7 @@ header{
 /* hot deat offer part */
 .hot-deal{
     display: flex;
+    width: 1900px;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
     margin-top: 130px;
@@ -145,6 +147,9 @@ header{
 }
 
 /* socail media part */
+.socail-mediea-area{
+    width: 1900px;
+}
 .socail-title{
     color: #272727;
     text-align: center;
