@@ -143,3 +143,35 @@ header{
     gap: 25px;
     margin: 0px 240px;
 }
+
+/* latest deal part */
+.latest-deal{
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    margin: 130px 240px;
+    background-repeat: no-repeat;
+}
+.latest-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 120px;
+}
+.latest-text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.subscribe{
+    text-align: center;
+    padding: 50px 0px 120px 0px;
+
+}
+.subscribe input[type="email"]{
+    border-radius: 8px;
+    background: #FFF;
+    padding: 10px 150px 10px 10px;
+    border: none;
+}
