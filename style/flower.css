@@ -35,7 +35,7 @@ header{
     font-size: 20px;
     font-weight: 700;
     border: none;
-    padding: 10px 40px;
+    padding: 10px 30px;
 }
 
 /* feature part */
@@ -236,14 +236,16 @@ header{
 }
 .subscribe{
     text-align: center;
-    padding: 50px 0px 120px 0px;
+    padding: 30px 0px 200px 0px;
 
 }
 .subscribe input[type="email"]{
     border-radius: 8px;
     background: #FFF;
-    padding: 10px 150px 10px 10px;
+    padding: 15px 150px 15px 15px;
     border: none;
+    margin-right:10px;
+    width: 400px;   
 }
 
 /* footer part */
