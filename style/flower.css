@@ -113,6 +113,49 @@ header{
     line-height: 35px; 
 }
 
+/* new arrival part */
+.new-arrival{
+    width: 1900px;
+}
+.new-arrival-heading{
+    text-align: center;
+    margin: 180px 640px 50px 640px;
+}
+.new-arrival-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.new-arrival-text{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.new-arrival-product{
+    display: flex;
+    gap: 50px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.10);
+    margin: 0px 240px;
+}
+.new-arrival-item{
+    width: 400px;
+    padding: 50px 20px;
+}
+.product-img{
+    width: 400px;
+    height: 400px;
+}
+.product-text{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px; 
+}
+
 /* hot deat offer part */
 .hot-deal{
     display: flex;
